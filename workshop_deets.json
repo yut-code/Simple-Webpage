@@ -25,5 +25,12 @@ workshops = [
 		"speaker":"Amreen Purewal",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
 
+	},
+	{
+		"name":"Workshop 5",
+		"date": "July 7 2018",
+		"speaker":"Daniel Gipps",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
+
 	}
 	];
