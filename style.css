@@ -102,6 +102,21 @@ li a:hover {
     padding: 2rem 0.5rem 1rem 0.5rem;
 }
 
+.fancy {
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: teal;
+    transition: transform .8s ease-in-out;
+}
+
+.fancy:hover {
+    transform:rotate(180deg);
+}
+
 .footer {
     position: relative;
     clear: both;
