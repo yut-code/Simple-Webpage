@@ -2,34 +2,41 @@ workshops = [
 	{
 		"name":"Workshop 1",
 		"date": "May 12 2018",
-		"speaker":"Ian McLean",
+		"speaker":"Homer Simpson",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
 	},
 	{
 		"name":"Workshop 2",
 		"date": "May 26 2018",
-		"speaker":"Danya Karras",
+		"speaker":"Daenerys Targaryen",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
 
 	},
 	{
 		"name":"Workshop 3",
 		"date": "June 9 2018",
-		"speaker":"Jeremy Goh",
+		"speaker":"Jim Bob",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
 
 	},
 	{
 		"name":"Workshop 4",
 		"date": "June 23 2018",
-		"speaker":"Amreen Purewal",
+		"speaker":"Walter White",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
 
 	},
 	{
 		"name":"Workshop 5",
 		"date": "July 7 2018",
-		"speaker":"Daniel Gipps",
+		"speaker":"Mike Sanchez",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
+
+	},
+	{
+		"name":"Workshop 6",
+		"date": "July 21 2018",
+		"speaker":"The Ice Age Squirrel",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae nunc sed velit dignissim sodales ut. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. In iaculis nunc sed augue lacus viverra. Consectetur a erat nam at lectus urna. Turpis massa tincidunt dui ut ornare lectus sit. Viverra aliquet eget sit amet tellus cras. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet."
 
 	}
